@@ -14,17 +14,17 @@ widgets:
 # social config
 social:
   zhihu:
-  twitter: /
-  facebook: /
+  twitter: 
+  facebook: 
   linkedin:
-  instagram: /
-  github: haojen
+  instagram: 
+  github: yeocci
 
 user:
-  name: Haojen
-  avatar:
-  location: In the dust
-  description: May the Force be with you
+  name: Yeocci
+  avatar: /images/avatar.jpg
+  location: 境界的彼方
+  description: 星空之下，你我都是尘埃
   footnotes: # footnotes
 
 # documents: https://github.com/utterance/utterances
@@ -53,15 +53,15 @@ appearance: auto # Default value is auto
 # Miscellaneous
 favicon: images/favicon.ico
 
-friend_links:
-  - title: Google
-    link: https://www.google.com/
-  - title: Github
-    link: https://www.github.com/
-  - title: V2EX
-    link: https://v2ex.com/
-  - title: Twitter
-    link: https://twitter.com/
+# friend_links:
+#   - title: Google
+#     link: https://www.google.com/
+#   - title: Github
+#     link: https://www.github.com/
+#   - title: V2EX
+#     link: https://v2ex.com/
+#   - title: Twitter
+#     link: https://twitter.com/
 
 # Google Analytics
 ga_track_id:
@@ -71,7 +71,7 @@ ga_domain:
 ba_track_id:
 
 # picture of about page
-about_pic: about.png
+about_pic: about.jpg
 
 image_zoom:
   enable: true
