@@ -75,3 +75,9 @@ about_pic: about.jpg
 
 image_zoom:
   enable: true
+
+# Post Copyright
+post_copyright:
+  enable: true
+  license: CC BY-NC-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
